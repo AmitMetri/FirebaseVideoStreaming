@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1047146660180",
+    "firebase_url": "https://fir-videostreaming-1f430.firebaseio.com",
+    "project_id": "fir-videostreaming-1f430",
+    "storage_bucket": "fir-videostreaming-1f430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047146660180:android:81cb7a235ba109fb",
+        "android_client_info": {
+          "package_name": "com.amit.firebasevideostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047146660180-or1cf64j9fcajrha6efqig9tpdq5u8vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amit.firebasevideostreaming",
+            "certificate_hash": "1cc18f78cec2fbe0594e04e2927f390baefa2bcc"
+          }
+        },
+        {
+          "client_id": "1047146660180-hb4of9g149of6s17d9rigvo4g3vfftnc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1047146660180-hb4of9g149of6s17d9rigvo4g3vfftnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-3GEYvQ9lQlPUmJn9c6I9cdsTCsmByw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047146660180-hb4of9g149of6s17d9rigvo4g3vfftnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
